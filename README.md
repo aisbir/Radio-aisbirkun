@@ -6,6 +6,6 @@ $ node index.js
 ```
 Edit key botnya di bot.cfg
 
-###Tutorial
+### Tutorial:
 untuk dapetin keynya bisa ke bot developer discord 
  • script ini fork dari Navaneeth
