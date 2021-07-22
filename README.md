@@ -11,5 +11,6 @@ Edit key botnya di bot.cfg
 • untuk dapetin keynya bisa ke bot developer discord
 • untuk edit lagunya di songs.txt
 • Untuk testimoni silahkan ke aisbirkun.netlify.app/discord
+```
 ### Credit:
  • script ini fork dari Navaneeth
