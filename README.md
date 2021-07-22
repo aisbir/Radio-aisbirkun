@@ -4,4 +4,4 @@
 $ npm i 
 $ node index.js
 ```
-Edit key botnya di
+Edit key botnya di bot.cfg
