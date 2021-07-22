@@ -8,6 +8,6 @@ Edit key botnya di bot.cfg
 
 ### Tutorial:
 • untuk dapetin keynya bisa ke bot developer discord 
-
+• edit linknya di li
 ### Credit:
  • script ini fork dari Navaneeth
