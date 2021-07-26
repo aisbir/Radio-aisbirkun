@@ -1,5 +1,6 @@
 
 [Run on Repl.it](https://repl.it/github/aisbir/Radio-Aisbirkun)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aisbir//Radio-Aisbirkun)
 ```bash
 $ npm i 
 $ node server.js
