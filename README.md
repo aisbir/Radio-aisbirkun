@@ -1,5 +1,5 @@
 
-[![Run on Repl.it](https://repl.it/github/aisbir/Radio-Aisbirkun)
+[Run on Repl.it](https://repl.it/github/aisbir/Radio-Aisbirkun)
 ```bash
 $ npm i 
 $ node server.js
